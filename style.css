@@ -1,0 +1,59 @@
+    .banner {
+        background-image: url(images/donation12.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        opacity: .80;
+    }
+    
+    .header {
+        color: white;
+        font-size: 30px;
+        width: 50%;
+        margin: auto;
+        text-align: center;
+        padding-top: 150px;
+    }
+    
+    #set-button {
+        background-color: red;
+        padding: 10px 40px;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    
+    .Donate {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    
+    section {
+        display: flex;
+        justify-content: space-evenly;
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .amount {
+        padding: 20px;
+        box-shadow: 20px 20px 100px gray;
+    }
+    
+    #color {
+        color: red;
+        box-shadow: 20px 20px 100px rgb(247, 8, 8);
+    }
+    
+    .input-taka {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .input-taka {
+        border-bottom: 2px solid white;
+        margin-top: 20px;
+    }
