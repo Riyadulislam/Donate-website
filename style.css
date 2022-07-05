@@ -110,6 +110,16 @@
         width: 500px;
     }
     
-    .A {
-        width: 80%;
+    .box {
+        border: 1px solid antiquewhite;
+        width: 50%;
+        margin-left: 350px;
+        padding: 30px;
+        background-color: antiquewhite;
+    }
+    
+    .update {
+        width: 50%;
+        margin: auto;
+        text-align: center;
     }
