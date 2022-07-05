@@ -123,3 +123,10 @@
         margin: auto;
         text-align: center;
     }
+    
+    .foot-add {
+        background-color: black;
+        color: white;
+        padding-left: 700px;
+        ;
+    }
