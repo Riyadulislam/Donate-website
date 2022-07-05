@@ -54,6 +54,42 @@
     }
     
     .input-taka {
-        border-bottom: 2px solid white;
+        border-bottom: 2px solid black;
         margin-top: 20px;
+    }
+    
+    .Donate-plane {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .Donate-plane1 {
+        display: flex;
+        margin-bottom: 200px;
+    }
+    
+    .Food-family {
+        margin-left: 4%;
+        margin-right: 4%;
+        border-radius: 5px;
+        box-shadow: 20px 20px 30px grey;
+        padding: 10px;
+        padding-top: 50px;
+    }
+    
+    .half-width {
+        width: 50%;
+    }
+    
+    #color-set1 {
+        background-color: antiquewhite;
+    }
+    
+    #color-set2 {
+        background-color: aquamarine;
+    }
+    
+    #color-set3 {
+        background-color: azure;
     }
