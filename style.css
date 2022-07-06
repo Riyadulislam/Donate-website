@@ -105,6 +105,16 @@
         padding-top: 50px;
     }
     
+    .need-help {
+        display: flex;
+        width: 90%;
+    }
+    
+    .need-help2 {
+        text-align: center;
+        margin-left: 150px;
+    }
+    
     .half-width {
         width: 50%;
     }
@@ -121,11 +131,8 @@
         background-color: azure;
     }
     
-    #button {
-        border: 2px solid red;
-        background-color: red;
-        text-decoration: none;
-        padding-bottom: 30px;
+    #set-button3 {
+        margin-top: 2000px;
     }
     
     #height-width {
