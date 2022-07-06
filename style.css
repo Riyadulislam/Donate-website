@@ -1,209 +1,219 @@
-    body {
-        font-family: 'Roboto', sans-serif;
-        margin: 0%;
-    }
-    
-    .banner {
-        background-image: url(images/donation12.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        height: 100vh;
-        opacity: 1;
-        height: 800px;
-    }
-    
-    .header {
-        color: white;
-        font-size: 30px;
-        width: 50%;
-        margin: auto;
-        text-align: center;
-        padding-top: 150px;
-    }
-    
-    #set-button {
-        background: #FF5959;
-        padding: 18px 34px;
-        color: white;
-        font-size: 18px;
-        margin: 6px;
-        border-radius: 50em;
-        border: none;
-    }
-    
-    .Donate {
-        width: 50%;
-        margin: auto;
-        text-align: center;
-        margin-top: 100px;
-    }
-    
-    .donate-amount {
-        display: flex;
-        justify-content: space-evenly;
-        width: 50%;
-        margin: auto;
-        text-align: center;
-    }
-    
-    .amount {
-        padding: 20px;
-        box-shadow: 20px 20px 300px gray;
-    }
-    
-    .amount:hover {
-        background-color: aquamarine;
-    }
-    
-    #set-color {
-        border: 1px solid red;
-        color: red;
-    }
-    
-    #set-button2 {
-        background: #FF5959;
-        padding: 18px 34px;
-        color: white;
-        font-size: 18px;
-        border-radius: 50em;
-        border: none;
-        margin-left: 670px;
-        margin-top: 30px;
-    }
-    
-    #color {
-        color: red;
-        box-shadow: 20px 20px 100px rgb(247, 8, 8);
-    }
-    
-    .input-taka {
-        width: 50%;
-        margin: auto;
-        text-align: center;
-    }
-    
-    .input-taka {
-        border-bottom: 2px solid black;
-        margin-top: 20px;
-    }
-    
-    .Donate-plane {
-        width: 50%;
-        margin: auto;
-        text-align: center;
-        margin-top: 100px;
-    }
-    
-    .Donate-plane1 {
-        display: flex;
-        margin-bottom: 200px;
-    }
-    
-    .Food-family {
-        margin-left: 4%;
-        margin-right: 4%;
-        border-radius: 5px;
-        box-shadow: 20px 20px 30px grey;
-        padding: 10px;
-        padding-top: 50px;
-    }
-    
-    .need-help {
-        display: flex;
-        width: 90%;
-    }
-    
-    .need-help2 {
-        text-align: center;
-        margin-left: 150px;
-    }
-    
-    #set-button3 {
-        background: #FF5959;
-        padding: 8px 18px;
-        color: white;
-        font-size: 15px;
-        border-radius: 50em;
-        border: none;
-        text-decoration: none;
-    }
-    
-    .hungry-face {
-        display: flex;
-        width: 100%;
-    }
-    
-    #hungry-pic {
-        margin-left: 100px;
-        height: 400px;
-        width: 600px
-    }
-    
-    .hungry-header {
-        margin-left: 40px;
-        margin-right: 50px;
-    }
-    
-    #set-button4 {
-        margin-left: 200px;
-        background: #FF5959;
-        padding: 8px 18px;
-        color: white;
-        font-size: 15px;
-        border-radius: 50em;
-        border: none;
-        text-decoration: none;
-    }
-    
-    .half-width {
-        width: 50%;
-    }
-    
-    #color-set1 {
-        background-color: antiquewhite;
-    }
-    
-    #color-set2 {
-        background-color: aquamarine;
-    }
-    
-    #color-set3 {
-        background-color: azure;
-    }
-    
-    #set-button3 {
-        margin-top: 2000px;
-    }
-    
-    #height-width {
-        height: 500px;
-        width: 500px;
-    }
-    
-    .box {
-        border: 1px solid antiquewhite;
-        width: 50%;
-        margin-left: 350px;
-        padding: 30px;
-        background-color: antiquewhite;
-    }
-    
-    .update {
-        width: 50%;
-        margin: auto;
-        text-align: center;
-    }
-    
-    .foot-add {
-        background-color: black;
-        color: white;
-        padding-left: 700px;
-    }
-    
-    #button-add {
-        border: 2px solid red;
-        background-color: red;
-        text-decoration: none;
-        margin-left: 700px;
-    }
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0%;
+        }
+        
+        .banner {
+            background-image: url(images/donation12.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            opacity: 1;
+            height: 800px;
+        }
+        
+        .header {
+            color: white;
+            font-size: 30px;
+            width: 50%;
+            margin: auto;
+            text-align: center;
+            padding-top: 150px;
+        }
+        
+        #set-button {
+            background: #FF5959;
+            padding: 18px 34px;
+            color: white;
+            font-size: 18px;
+            margin: 6px;
+            border-radius: 50em;
+            border: none;
+        }
+        
+        .Donate {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+            margin-top: 100px;
+        }
+        
+        .donate-amount {
+            display: flex;
+            justify-content: space-evenly;
+            width: 50%;
+            margin: auto;
+            text-align: center;
+        }
+        
+        .amount {
+            padding: 20px;
+            box-shadow: 20px 20px 300px gray;
+        }
+        
+        .amount:hover {
+            background-color: aquamarine;
+        }
+        
+        #set-color {
+            border: 1px solid red;
+            color: red;
+        }
+        
+        #set-button2 {
+            background: #FF5959;
+            padding: 18px 34px;
+            color: white;
+            font-size: 18px;
+            border-radius: 50em;
+            border: none;
+            margin-left: 670px;
+            margin-top: 30px;
+        }
+        
+        #color {
+            color: red;
+            box-shadow: 20px 20px 100px rgb(247, 8, 8);
+        }
+        
+        .input-taka {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+        }
+        
+        .input-taka {
+            border-bottom: 2px solid black;
+            margin-top: 20px;
+        }
+        
+        .Donate-plane {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+            margin-top: 100px;
+        }
+        
+        .Donate-plane1 {
+            display: flex;
+            margin-bottom: 200px;
+        }
+        
+        .Food-family {
+            margin-left: 4%;
+            margin-right: 4%;
+            border-radius: 5px;
+            box-shadow: 20px 20px 30px grey;
+            padding: 10px;
+            padding-top: 50px;
+        }
+        
+        .need-help {
+            display: flex;
+            width: 90%;
+        }
+        
+        .need-help2 {
+            text-align: center;
+            margin-left: 150px;
+        }
+        
+        #set-button3 {
+            background: #FF5959;
+            padding: 8px 18px;
+            color: white;
+            font-size: 15px;
+            border-radius: 50em;
+            border: none;
+            text-decoration: none;
+        }
+        
+        .hungry-face {
+            display: flex;
+            width: 100%;
+        }
+        
+        #hungry-pic {
+            margin-left: 100px;
+            height: 400px;
+            width: 600px
+        }
+        
+        .hungry-header {
+            margin-left: 40px;
+            margin-right: 50px;
+        }
+        
+        #set-button4 {
+            margin-left: 200px;
+            background: #FF5959;
+            padding: 8px 18px;
+            color: white;
+            font-size: 15px;
+            border-radius: 50em;
+            border: none;
+            text-decoration: none;
+        }
+        
+        .half-width {
+            width: 50%;
+        }
+        
+        #color-set1 {
+            background-color: antiquewhite;
+        }
+        
+        #color-set2 {
+            background-color: aquamarine;
+        }
+        
+        #color-set3 {
+            background-color: azure;
+        }
+        
+        #set-button3 {
+            margin-top: 2000px;
+        }
+        
+        #height-width {
+            height: 500px;
+            width: 500px;
+        }
+        
+        .box {
+            border: 1px solid antiquewhite;
+            width: 50%;
+            margin-left: 350px;
+            padding: 30px;
+            background-color: antiquewhite;
+        }
+        
+        .update {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+        }
+        
+        .foot-add {
+            background-color: black;
+            color: white;
+            padding-left: 700px;
+            height: 140px;
+        }
+        
+        #foot-p {
+            margin-left: 20px;
+        }
+        
+        #foot-h {
+            padding-top: 30px;
+            font-family: 'Lobster', cursive;
+        }
+        
+        #button-add {
+            border: 2px solid red;
+            background-color: red;
+            text-decoration: none;
+            margin-left: 700px;
+        }
