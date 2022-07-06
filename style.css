@@ -1,5 +1,5 @@
     body {
-        font-family: 'Lobster', cursive;
+        font-family: 'Roboto', sans-serif;
         margin: 0%;
     }
     
@@ -10,6 +10,7 @@
         background-position: center;
         height: 100vh;
         opacity: 1;
+        height: 800px;
     }
     
     .header {
@@ -51,6 +52,10 @@
         box-shadow: 20px 20px 300px gray;
     }
     
+    .amount:hover {
+        background-color: aquamarine;
+    }
+    
     #set-color {
         border: 1px solid red;
         color: red;
@@ -61,7 +66,6 @@
         padding: 18px 34px;
         color: white;
         font-size: 18px;
-        margin: 6px;
         border-radius: 50em;
         border: none;
         margin-left: 670px;
@@ -113,6 +117,43 @@
     .need-help2 {
         text-align: center;
         margin-left: 150px;
+    }
+    
+    #set-button3 {
+        background: #FF5959;
+        padding: 8px 18px;
+        color: white;
+        font-size: 15px;
+        border-radius: 50em;
+        border: none;
+        text-decoration: none;
+    }
+    
+    .hungry-face {
+        display: flex;
+        width: 100%;
+    }
+    
+    #hungry-pic {
+        margin-left: 100px;
+        height: 400px;
+        width: 600px
+    }
+    
+    .hungry-header {
+        margin-left: 40px;
+        margin-right: 50px;
+    }
+    
+    #set-button4 {
+        margin-left: 200px;
+        background: #FF5959;
+        padding: 8px 18px;
+        color: white;
+        font-size: 15px;
+        border-radius: 50em;
+        border: none;
+        text-decoration: none;
     }
     
     .half-width {
